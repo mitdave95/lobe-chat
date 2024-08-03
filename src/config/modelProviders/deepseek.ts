@@ -33,8 +33,8 @@ const DeepSeek: ModelProviderCard = {
     },
   ],
   checkModel: 'meta.llama3-1-8b-instruct-v1:0',
-  id: 'deepseek',
   disableBrowserRequest: true,
+  id: 'deepseek',
   name: 'Sentient',
 };
 
