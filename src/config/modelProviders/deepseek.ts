@@ -30,7 +30,7 @@ const DeepSeek: ModelProviderCard = {
     {
       description: 'Mistral Large 2',
       displayName: 'Mistral Large 2',
-      enabled: false,
+      enabled: true,
       functionCall: true,
       id: 'mistral.mistral-large-2407-v1:0',
       tokens: 128_000,
